@@ -15,9 +15,13 @@
 
 <h5>References</h5>
 <p>BIFs and oBIFs have been employed for a wide variety of applications. Here you will find links to relevant papers ordered by the type of applications.</p>
-<h6>General</h6>
+<h6>Background</h6>
 <p>
 Griffin, L. D., & Lillholm, M. (2010). <i>Symmetry sensitivities of derivative-of-Gaussian filters</i>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(6), 1072-1083 [<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4906999&tag=1">LINK</a>]
+<br>
+Griffin, L. D., Lillholm, M., Crosier, M., & van Sande, J. (2009). <i>Basic Image Features (BIFs) arising from local symmetry type</i>. 2009 Scale Space and Variational Methods in Computer Vision LNCS vol. 5567:343-355. [<a href="http://link.springer.com/chapter/10.1007%2F978-3-642-02256-2_29#page-1">LINK</a>]
+<br>
+Griffin, L. D. (2007). <i>The 2nd-order local-image-structure solid</i>. IEEE Transaction on Pattern Analysis and Machine Intelligence 29(8), 1355-1366 [<a href="https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F34%2F4250455%2F04250462.pdf%3Farnumber%3D4250462&ei=88IRVODEEpPkas2ZgOgO&usg=AFQjCNEeL1mnAgKWgRmmvG-M-mqMiXvB1A&sig2=Es9XDONEVjMKWTnX1Oaa6w&bvm=bv.74894050,d.d2s">LINK</a>]
 </p>
 <h6>Texture classification</h6>
 <p>
