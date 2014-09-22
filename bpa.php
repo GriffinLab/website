@@ -10,7 +10,7 @@
   <p><img src="images/bpa2.png" height="250px"></p>
   <p>Schematic of the Delaunay triangles' sides entropy measure. From a point pattern (left) a Delaunay triangulation (middle) is constructed. From the triangulation, side length histograms (right) are determined for shortest (top), intermediate (middle) and longest sides (bottom). Smoothed histograms are created by kernel-density estimation and used for entropy estimation.</p>
   <br />
-  <p><img src="images/bpa2.png" height="250px"></p>
+  <p><img src="images/bpa3.png" height="250px"></p>
   <p>Schematic of the Delaunay triangles entropy measure. At left are two example patterns; moving right, their Delaunay triangulationsl next, the triangle size histogram (smoothed); and finally the triangle shape histogram (raw data and smoothed). The more disordered lower pattern has wider histograms than the more ordered upper pattern.</p>
   <p></p>
 </div>
