@@ -20,9 +20,9 @@
     Special Prize in Computational Physics, Imperial College London (2011)<br /><br />
 
     <b>Publications</b><br />
-    <!-- T. W. Rogers, J. Ollier, E. J. Morton and L. D. Griffin. Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners. IEEE IST 2014. Pending -->
-    N. Jaccard, T. Rogers, L. D. Griffin. Automated detection of cars in transmission X-ray images of freight containers. AVSS 2014. Accepted.<br />
-    N. S. Blunt, T. W. Rogers, J. S. Spencer, W. M. C. Foulkes. Density matrix quantum Monte Carlo. Phys. Rev. A (2014). Accepted.<br /><br />
+    T. W. Rogers, J. Ollier, E. J. Morton and L. D. Griffin. Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners. IEEE IST 2014.<br />
+    N. Jaccard, T. Rogers, L. D. Griffin. Automated detection of cars in transmission X-ray images of freight containers. AVSS 2014.<br />
+    N. S. Blunt, T. W. Rogers, J. S. Spencer, W. M. C. Foulkes. Density matrix quantum Monte Carlo. Phys. Rev. A 2014.<br /><br />
 
   </p>
 </div>
