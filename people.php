@@ -19,6 +19,8 @@
   <h5>Past Research Fellows</h5>
   <p><a href="http://www0.cs.ucl.ac.uk/people/A.Newell">Andrew Newell</a> (<a href="http://www.ucl.ac.uk/complex/research/students/alumni/newell">website</a>)</p>
   <p>Martin Lillholm</a> (<a href="http://www0.cs.ucl.ac.uk/staff/M.Lillholm/">website</a>)</p>
+  <h5>Group Meetings</h5>
+  <p><a href="http://goo.gl/CL6Gga">Weekly lab lunch schedule</a></p>
 </div>
 <div class="six columns right" id="group-image">
 </div>
