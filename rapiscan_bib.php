@@ -11,6 +11,7 @@
   <p>S. Nance, <em><a href="http://www.kmimediagroup.com/border-security-emergency-preparedness/422-articles-bcd/cargo-screening">Cargo Screening</a></em>, Border Security &amp; Emergency Preparedness, KMI Media Group, 2014</p>
   <p>K. Mowery et al., <em><a href="https://radsec.org">Security Analysis of a Full-Body Scanner</a></em>, Proceedings of the 23rd USENIX Security Symposium, 2014</p>
   <p>BBC News UK, <em><a href="http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-29556126">Heroin worth £37m revealed in imported car X-ray</a></em>, British Broadcasting Corporation, 2014</p>
+  <p>L. White, <em><a href="http://www.cbsa-asfc.gc.ca/media/prosecutions-poursuites/pra/2012-05-02-eng.html">4kg of suspected heroin intercepted at Calgary International Airport</a></em>, Canada Border Services Agency, 2012</p>
 </div>
 <div class="six columns right" id="group-image">
 </div>
