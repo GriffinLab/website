@@ -13,6 +13,7 @@
   <p>BBC News UK, <em><a href="http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-29556126">Heroin worth £37m revealed in imported car X-ray</a></em>, British Broadcasting Corporation, 2014</p>
   <p>E. Elias and R. Zimmerman, <em><a href="http://www.cbc.ca/news/canada/british-columbia/cocaine-stashed-in-cargo-from-russia-found-with-x-ray-1.2463909">Cocaine stashed in cargo from Russia found with X-ray</a></em>, Canadian Broadcasting Corporation, 2013</p>
   <p>L. White, <em><a href="http://www.cbsa-asfc.gc.ca/media/prosecutions-poursuites/pra/2012-05-02-eng.html">4kg of suspected heroin intercepted at Calgary International Airport</a></em>, Canada Border Services Agency, 2012</p>
+  <p>A. Goldsmith, <em><a href="http://www.git-security.com/topstories/security/us-100-air-cargo-scanning-deadline-has-now-past">The US 100% air cargo scanning deadline has now passed</a></em>, GIT Security, 2010</p>
 </div>
 <div class="six columns right" id="group-image">
 </div>
