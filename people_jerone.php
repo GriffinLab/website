@@ -18,7 +18,7 @@ I am also a member of University College London’s Centre for Computational Sta
     Master of Research (MRes), <em>Security Science, </em>University College London (2013–2014).<br />
     Master of Science (MSci), <em>Mathematics, </em>King's College London (2008–2013).<br /><br />
 
-    <b>Teaching</b><br />
+    <b>Teaching Assistant</b><br />
     Course Code: STAT6101, Introductory Statistical Methods and Computing (Term 1 & 2).<br />
     Course Code: COMP2003, Mathematics and Statistics (Term 1).<br />
     Course Code: COMP3096, Research Group Project (Term 1 & 2).<br />
