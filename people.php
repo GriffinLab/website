@@ -7,7 +7,7 @@
   <p><a href="http://www0.cs.ucl.ac.uk/people/N.Jaccard">Dr Nicolas Jaccard</a></p>
   <h5>PhD/EngD Students</h5>
   <p><a href="http://www0.cs.ucl.ac.uk/people/T.Rogers">Thomas Rogers</a> (<a href="people_thomas.php">website</a>)</p>
-  <p><a href="https://www.ucl.ac.uk/secret/current_students/2013_cohort/2013_cohort_profiles/jerone-andrews">Jerone Andrews</a></p>
+  <p><a href="https://www.ucl.ac.uk/secret/current_students/2013_cohort/2013_cohort_profiles/jerone-andrews">Jerone Andrews</a> (<a href="people_jerone.php">website</a>)</p>
   <p><a href="http://www0.cs.ucl.ac.uk/people/S.Bouremoum">Sami Bouremoum</a> (<a href="http://bouremoum.com">website</a>)</p>
   <p><a href="http://www0.cs.ucl.ac.uk/people/T.Boyd">Theodore Boyd</a> (<a href="http://www0.cs.ucl.ac.uk/staff/T.Boyd/">website</a>)</p>
   <p><a href="http://www0.cs.ucl.ac.uk/people/E.Protonotarios">Manos Protonotarios</a> (<a href="http://www.protonotarios.net/">website</a>)</p>
