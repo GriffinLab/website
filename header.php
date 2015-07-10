@@ -39,11 +39,11 @@
       <li class="divider"></li>
       <li><a href="rapiscan.php">Rapiscan Project</a></li>
       <li class="divider"></li>
-      <li><a href="bpa.php">Biological Pattern Analysis</a></li>
+      <li><a href="bpa.php">Pattern Quantification</a></li>
       <li class="divider"></li>
       <li><a href="bifs.php">BIFs</a></li>
       <li class="divider"></li>
-      <li><a href="people.php">Individuals</a></li>
+      <li><a href="people.php">People</a></li>
       <li class="divider hide-for-small"></li>
     </ul>
     </section>
