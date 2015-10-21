@@ -10,6 +10,7 @@
   <!--h5>Cargo Image Publications</h5>
   <p>Coming soon.</p-->
   <h5>Other Links</h5>
+  <p>C. Friedersdorf, <em><a href="http://www.theatlantic.com/politics/archive/2015/10/the-nypd-is-using-mobile-x-rays-to-spy-on-unknown-targets/411181/?single_page=true">The NYPD Is Using Mobile X-Ray Vans to Spy on Unknown Targets</a></em>, The Atlantic, 2015</p>
   <p>S. Nance, <em><a href="http://www.kmimediagroup.com/border-security-emergency-preparedness/422-articles-bcd/cargo-screening">Cargo Screening</a></em>, Border Security &amp; Emergency Preparedness, KMI Media Group, 2014</p>
   <p>K. Mowery et al., <em><a href="https://radsec.org">Security Analysis of a Full-Body Scanner</a></em>, Proceedings of the 23rd USENIX Security Symposium, 2014</p>
   <p>BBC News UK, <em><a href="http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-29556126">Heroin worth £37m revealed in imported car X-ray</a></em>, British Broadcasting Corporation, 2014</p>
