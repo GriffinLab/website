@@ -15,11 +15,12 @@
     MSci Physics with Theoretical Physics (1st), Imperial College London<br /><br />
 
     <b>Prizes</b><br />
-    Best performance in Taught Modules, University College London (2014)<br />
-    Tessella Prize for Software, Imperial College London (2012)<br />
-    Special Prize in Computational Physics, Imperial College London (2011)<br /><br />
+    Best performance in MRes Security Science Taught Modules, University College London (2014)<br />
+    Tessella Prize for Software (for most outstanding final year or Year in Europe computational project), Imperial College London (2012)<br />
+    Special Prize in Computational Physics (for excellence in the Computational Physics course), Imperial College London (2011)<br /><br />
 
     <b>Publications</b><br />
+    T. W. Rogers, N. Jaccard, E. J. Morton and L. D. Griffin. Detection of cargo container loads from X-ray images. IET ISP 2015. (Accepted)<br />
     T. W. Rogers, J. Ollier, E. J. Morton and L. D. Griffin. Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners. IEEE IST 2014.<br />
     N. Jaccard, T. Rogers, L. D. Griffin. Automated detection of cars in transmission X-ray images of freight containers. AVSS 2014.<br />
     N. S. Blunt, T. W. Rogers, J. S. Spencer, W. M. C. Foulkes. Density matrix quantum Monte Carlo. Phys. Rev. A 2014.<br /><br />
