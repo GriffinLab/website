@@ -13,6 +13,8 @@
   <link rel="stylesheet" href="stylesheets/foundation.min.css">
   <link rel="stylesheet" href="stylesheets/app.css">
 
+  <link rel="stylesheet" href="stylesheets/overrides.css">
+
   <script src="javascripts/modernizr.foundation.js"></script>
 </head>
 <body>

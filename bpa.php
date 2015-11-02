@@ -4,13 +4,13 @@
   <h5>Pattern Quantification</h5>
   <p>We develop image analysis algorithms that quantify pattern attributes, such as degree-of-order, giving a value on an interval scale that agrees with human perception as measured through psychophysical experiment.</p>
   <br />
-  <p><img src="images/bpa1.png" height="250px"></p>
+  <p><img src="images/bpa1.png" /></p>
   <p>Changes in the <em>drosophila notum</em> between 17.5h (left) and 22h (right) after pupae formation. The microscopy images visualise two aspects of the tissue organisation. The polygonal mesh of cell outlines is visible due to expression of green fluorescent protein (GFP) attached to a cell adhesion molecule (E-Cadherin-GFP), and the array of mostly isolated bristle precursor cells is visible due to GFP expression attached to a signalling protein (Neu:GFP). (Scale bars: 20&micro;m). An increase in the degree of organisation (order) is observed when these two images are compared.</p>
   <br />
-  <p><img src="images/bpa2.png" height="250px"></p>
+  <p><img src="images/bpa2.png" /></p>
   <p>Schematic of the Delaunay triangles' sides entropy measure. From a point pattern (left) a Delaunay triangulation (middle) is constructed. From the triangulation, side length histograms (right) are determined for shortest (top), intermediate (middle) and longest sides (bottom). Smoothed histograms are created by kernel-density estimation and used for entropy estimation.</p>
   <br />
-  <p><img src="images/bpa3.png" height="250px"></p>
+  <p><img src="images/bpa3.png" /></p>
   <p>Schematic of the Delaunay triangles entropy measure. At left are two example patterns; moving right, their Delaunay triangulationsl next, the triangle size histogram (smoothed); and finally the triangle shape histogram (raw data and smoothed). The more disordered lower pattern has wider histograms than the more ordered upper pattern.</p>
   <p></p>
   <h5>References</h5>
