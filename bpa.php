@@ -14,11 +14,11 @@
   <p>Schematic of the Delaunay triangles entropy measure. At left are two example patterns; moving right, their Delaunay triangulationsl next, the triangle size histogram (smoothed); and finally the triangle shape histogram (raw data and smoothed). The more disordered lower pattern has wider histograms than the more ordered upper pattern.</p>
   <p></p>
   <h5>References</h5>
-  <p>Bouremoum S., Protonotarios E., Griffin L. D. (2015). <i>Quantifying texture scale></i>. ICSIA '15<br />
-  Grove J., Metcalf D. J., Knight A. E., Wavre-Shapton S. T., Sun T., Protonotarios E. D., Griffin L. D., Lippincott-Schwartz J. and Marsh M. (2014). <i>Flat clathrin lattices: stable features of the plasma membrane</i>. Molecular Biology of the Cell [<a href="http://www.molbiolcell.org/content/25/22/3581.short">LINK</a>]<br />
-  Protonotarios, E. D., Baum, B., Johnston, A., Hunter, G. L., and Griffin, L. D. (2014). <i>An absolute interval scale of order for point patterns</i>. J R Soc Interface 11(99) doi:10.1098/rsif.2014.0342 [<a href="http://rsif.royalsocietypublishing.org/content/11/99/20140342.short">LINK</a>]<br>
-  Protonotarios M., Ciurea-Ilcus S. and Griffin L. D. (2012). <i>Objective measures of apparent order of point patterns</i>. In: Proc. Predicting Perceptions 2012 [<a href="http://www.macs.hw.ac.uk/texturelab/files/publications/perceptions/Objective_Measures_of_Apparent_Order_of_Point_Patterns.pdf">LINK</a>]<br>
-  Protonotarios E., Griffin L. (2012). <i>An objective measure of order for 2-D patterns of points in agreement with human perception</i>. PERCEPTION 41(10), 1274-1274 [<a href="http://www.perceptionweb.com/openaccess/p4110ava.pdf">LINK</a>]
+  <p>Bouremoum S., Protonotarios E., Griffin L. D. (2015). <em>Quantifying texture scale</em>. ICSIA '15<br />
+  Grove J., Metcalf D. J., Knight A. E., Wavre-Shapton S. T., Sun T., Protonotarios E. D., Griffin L. D., Lippincott-Schwartz J. and Marsh M. (2014). <em><a href="http://www.molbiolcell.org/content/25/22/3581.short">Flat clathrin lattices: stable features of the plasma membrane</a></em>. Molecular Biology of the Cell<br />
+  Protonotarios, E. D., Baum, B., Johnston, A., Hunter, G. L., and Griffin, L. D. (2014). <em><a href="http://rsif.royalsocietypublishing.org/content/11/99/20140342.short">An absolute interval scale of order for point patterns</a></em>. J R Soc Interface 11(99) doi:10.1098/rsif.2014.0342<br />
+  Protonotarios M., Ciurea-Ilcus S. and Griffin L. D. (2012). <em><a href="http://www.macs.hw.ac.uk/texturelab/files/publications/perceptions/Objective_Measures_of_Apparent_Order_of_Point_Patterns.pdf">Objective measures of apparent order of point patterns</a></em>. In: Proc. Predicting Perceptions 2012<br />
+  Protonotarios E., Griffin L. (2012). <em><a href="http://www.perceptionweb.com/openaccess/p4110ava.pdf">An objective measure of order for 2-D patterns of points in agreement with human perception</a></em>. PERCEPTION 41(10), 1274-1274
   </p>
 </div>
 <div class="six columns right" id="group-image">

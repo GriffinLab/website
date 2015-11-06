@@ -2,15 +2,15 @@
 
 <div class="columns" id="about">
   <h5>Rapiscan Project</h5>
-  <p>We are developing image analysis algorithms applicable to x-ray security images of freight containers, cargo, luggage and individuals.</p>
+  <p>We are developing image analysis algorithms applicable to X-ray security images of freight containers, cargo, luggage and individuals.</p>
   <h5>Project Publications</h5>
   <p>T.W. Rogers, N. Jaccard, E.J. Morton and L.D. Griffin, <em>Detection of cargo container loads from X-ray images</em>, 2nd IET International Conference on Intelligent Signal Processing, London, 2015 (Accepted)</p>
   <p>T. Boyd and L.D. Griffin, <em><a href="https://www.cs.york.ac.uk/ftpdir/reports/2014/YCS/494/YCS-2014-494.pdf#page=39">Labelling images without classifiers</a></em>, In Proceedings of 7th York Doctoral Symposium, York, 2014</p>
   <p>N. Jaccard, T.W. Rogers, L.D. Griffin, <em><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6918699">Automated detection of cars in transmission X-ray images of freight containers</a></em>, 11th IEEE International Conference on Advanced Video and Signal-based Surveillance, 2nd Workshop on Vehicle Retrieval in Surveillance, Seoul, South Korea, 2014</p>
   <p>T. W. Rogers, J. Ollier, E. J. Morton, and L.D. Griffin, <em><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></em>, IEEE International Conference on Imaging Systems and Techniques, 2014</p>
   <p><a href="https://scholar.google.co.uk/citations?hl=en&user=Gw5Pc1UAAAAJ&view_op=list_works&sortby=pubdate">All Griffin Lab publications</a></p>
-  <!--h5>Cargo Image Publications</h5>
-  <p>Coming soon.</p-->
+  <h5>Relevant Conferences</h5>
+  <p><em><a href="http://www.ima.org.uk/conferences/conferences_calendar/4th_mathematics_in_defence.cfm.html">4th IMA Conference on Mathematics in Defence</a></em>, Satellite Applications Catapult, Harwell Oxford, UK, 26<sup>th</sup> November 2015</p>
   <h5>Other Links</h5>
   <p>C. Friedersdorf, <em><a href="http://www.theatlantic.com/politics/archive/2015/10/the-nypd-is-using-mobile-x-rays-to-spy-on-unknown-targets/411181/?single_page=true">The NYPD Is Using Mobile X-Ray Vans to Spy on Unknown Targets</a></em>, The Atlantic, 2015</p>
   <p>S. Nance, <em><a href="http://www.kmimediagroup.com/border-security-emergency-preparedness/422-articles-bcd/cargo-screening">Cargo Screening</a></em>, Border Security &amp; Emergency Preparedness, KMI Media Group, 2014</p>
