@@ -12,6 +12,9 @@
   <h5>Relevant Conferences</h5>
   <p><em><a href="http://www.ima.org.uk/conferences/conferences_calendar/4th_mathematics_in_defence.cfm.html">4th IMA Conference on Mathematics in Defence</a></em>, Satellite Applications Catapult, Harwell Oxford, UK, 26<sup>th</sup> November 2015</p>
   <h5>Other Links</h5>
+  <p>L. Dearden, <em><a href="http://www.independent.co.uk/news/world/europe/paris-attacks-almost-800-pump-action-shotguns-seized-by-italian-police-on-way-to-belgium-germany-and-a6752106.html">Paris attacks: Almost 800 pump-action shotguns seized by Italian police on way to Belgium, Germany and Holland
+</a></em>, The Indepenent, 2015</p>
+  <p>U. Bacchi, <em><a href="http://www.ibtimes.co.uk/greece-seized-tanker-haddad-1-concealed-5000-shotguns-libya-islamists-1518372">Greece: Seized cargo ship Haddad 1 concealed 5,000 shotguns 'for Libya Islamists'</a></em>, International Business Times, 2015</p>
   <p>C. Friedersdorf, <em><a href="http://www.theatlantic.com/politics/archive/2015/10/the-nypd-is-using-mobile-x-rays-to-spy-on-unknown-targets/411181/?single_page=true">The NYPD Is Using Mobile X-Ray Vans to Spy on Unknown Targets</a></em>, The Atlantic, 2015</p>
   <p>S. Nance, <em><a href="http://www.kmimediagroup.com/border-security-emergency-preparedness/422-articles-bcd/cargo-screening">Cargo Screening</a></em>, Border Security &amp; Emergency Preparedness, KMI Media Group, 2014</p>
   <p>K. Mowery et al., <em><a href="https://radsec.org">Security Analysis of a Full-Body Scanner</a></em>, Proceedings of the 23rd USENIX Security Symposium, 2014</p>
