@@ -1,3 +1,11 @@
 .columns {
    max-width: 100%;
 }
+
+p {
+  margin-bottom: 5px;
+}
+
+.columns h5:not(:first-child) {
+   margin-top: 40px;
+}
