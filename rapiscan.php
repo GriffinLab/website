@@ -10,8 +10,9 @@
   <p>T. W. Rogers, J. Ollier, E. J. Morton, and L. D. Griffin, <em><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6958504">Reduction of Wobble Artefacts in Images From Mobile Transmission X-ray Vehicle Scanners</a></em>, IEEE International Conference on Imaging Systems and Techniques, 2014</p>
   <p><a href="https://scholar.google.co.uk/citations?hl=en&user=Gw5Pc1UAAAAJ&view_op=list_works&sortby=pubdate">All Griffin Lab publications</a></p>
   <h5>Relevant Conferences</h5>
-  <p><em><a href="http://www.ima.org.uk/conferences/conferences_calendar/4th_mathematics_in_defence.cfm.html">4th IMA Conference on Mathematics in Defence</a></em>, Satellite Applications Catapult, Harwell Oxford, UK, 26<sup>th</sup> November 2015</p>
-  <p><em><a href="https://www.ucl.ac.uk/jdi/events/crime-science-conf/icsc-current">9th International Crime Science Conference</a></em>, British Library, London, UK, 16<sup>th</sup> July 2015</p>
+  <p><em><a href="http://spie.org/conferences-and-exhibitions/security-and-defence">13th SPIE Security + Defence Conference</a></em>, Edinburgh, UK, 26th&ndash;29th September 2016</p>
+  <p><em><a href="http://www.ima.org.uk/conferences/conferences_calendar/4th_mathematics_in_defence.cfm.html">4th IMA Conference on Mathematics in Defence</a></em>, Satellite Applications Catapult, Harwell Oxford, UK, 26th November 2015</p>
+  <p><em><a href="https://www.ucl.ac.uk/jdi/events/crime-science-conf/icsc-current">9th International Crime Science Conference</a></em>, British Library, London, UK, 16th July 2015</p>
   <h5>Other Links</h5>
   <p>L. Dearden, <em><a href="http://www.independent.co.uk/news/world/europe/paris-attacks-almost-800-pump-action-shotguns-seized-by-italian-police-on-way-to-belgium-germany-and-a6752106.html">Paris attacks: Almost 800 pump-action shotguns seized by Italian police on way to Belgium, Germany and Holland
 </a></em>, The Indepenent, 2015</p>
