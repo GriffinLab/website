@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 828.02879 303.71572"
+   height="85.715324mm"
+   width="233.68813mm">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(38.664582,-58.836847)"
+     id="layer1">
+    <g
+       transform="translate(11.428571,-465.71429)"
+       id="g4219">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:60.44543076px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-35.86956"
+         y="824.42999"
+         id="text4147"><tspan
+           id="tspan4149"
+           x="-35.86956"
+           y="824.42999"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New'">L.Griffin@cs.ucl.ac.uk</tspan></text>
+      <rect
+         style="opacity:1;fill:#fea5ab;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155"
+         width="105.05586"
+         height="105.05586"
+         x="-49.294426"
+         y="667.49408" />
+      <rect
+         style="opacity:1;fill:#8f8f8f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155-6"
+         width="105.05586"
+         height="105.05586"
+         x="70.913742"
+         y="667.49432" />
+      <rect
+         style="opacity:1;fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155-2"
+         width="105.05586"
+         height="105.05586"
+         x="191.56706"
+         y="667.49432" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155-6-2"
+         width="105.05586"
+         height="105.05586"
+         x="311.79553"
+         y="667.49432" />
+      <rect
+         style="opacity:1;fill:#f3f43f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155-7"
+         width="105.05586"
+         height="105.05586"
+         x="431.74585"
+         y="667.49432" />
+      <rect
+         style="opacity:1;fill:#2314f4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155-6-0"
+         width="105.05586"
+         height="105.05586"
+         x="552.28784"
+         y="667.49432" />
+      <rect
+         style="opacity:1;fill:#21ff3c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.14285994;stroke-opacity:1"
+         id="rect4155-6-0-2"
+         width="105.05586"
+         height="105.05586"
+         x="672.87976"
+         y="667.49432" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:73.72825623px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-58.031181"
+         y="645.32257"
+         id="text4215"><tspan
+           id="tspan4217"
+           x="-58.031181"
+           y="645.32257"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:165.88859558px;font-family:helvetica;-inkscape-font-specification:'helvetica Bold'">Griffin Lab</tspan></text>
+    </g>
+  </g>
+</svg>
