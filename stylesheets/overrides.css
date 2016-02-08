@@ -9,3 +9,5 @@ p {
 .columns h5:not(:first-child) {
    margin-top: 40px;
 }
+
+svg { max-height: 100%; }

@@ -31,7 +31,8 @@
 <div class="contain-to-grid">
   <nav class="top-bar">
     <ul class="title-area">
-      <li class="name"><h1><a href="index.php">Griffin Lab Image Analysis Group</a></h1></li>
+      <li class="name"><img src="images/GriffinLabLogoVectorNoEmail.svg" width="100px" style="padding-top:4px;padding-left:5px" alt="Griffin Lab Logo"></li>
+      <li class="name"><h1><a href="index.php">Image Analysis Group</a></h1></li>
       <li class="toggle-topbar menu-icon hide-for-large"><a href="#"></a></li>
     </ul>
     <section class="top-bar-section">
