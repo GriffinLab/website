@@ -42,7 +42,7 @@
       <li class="divider"></li>
       <li><a href="rapiscan.php">Rapiscan Project</a></li>
       <li class="divider"></li>
-      <li><a href="bpa.php">Pattern Quantification</a></li>
+      <li><a href="pattern.php">Pattern Quantification</a></li>
       <li class="divider"></li>
       <li><a href="colour.php">Colour</a></li>
       <li class="divider"></li>
