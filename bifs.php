@@ -1,7 +1,7 @@
 <?php include 'header.php';?> 
 
 <div class="columns" id="about">
-  <h5>Basic Image Features</h5>
+<h5>Basic Image Features</h5>
 <p>Basic Image Features (BIFs) are a significant contribution by this group. Computation of BIFs consists in classifying each pixel of an image into one of seven categories depending on local structures and symmetries, creating a primal sketch of the input image. BIFs are computed efficiently based on the responses to a bank of Derivative-of-Gaussian (DtG) filters. </p>
 
 <p>The computation of BIFs is controlled by a scale parameter (<i><b>&sigma;</b></i>, the standard deviation of the DtG filters) and a threshold parameter (<i><b>&epsilon;</b></i>) dictating the fraction of an image that should be considered as 'flat' (i.e. without a particular structure).</p>

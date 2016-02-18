@@ -44,6 +44,8 @@
       <li class="divider"></li>
       <li><a href="bpa.php">Pattern Quantification</a></li>
       <li class="divider"></li>
+      <li><a href="colour.php">Colour</a></li>
+      <li class="divider"></li>
       <li><a href="bifs.php">BIFs</a></li>
       <li class="divider"></li>
       <li><a href="people.php">People</a></li>
