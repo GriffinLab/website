@@ -9,7 +9,7 @@ Griffin L. D., Sutcliffe A., Bradbury K., Kumble S., Mylonas D., and Baker A. (2
 <br>
 Bakshi B., Sutcliffe A., Akindolie M., Vadamalayan B., John S., Arkley C., Griffin L. D., and Baker A. (2012). <em><a href="http://www.ncbi.nlm.nih.gov/pubmed/22933100">How reliably can paediatric professional identify pale stool from cholestatic newborns?</a></em>. Archives of Diseases in Childhood, 97(5):385-387
 <br>
-Griffin L. D. (2006). <em>The Basic Colour Categories are optimal for classification</em>. Journal of the Royal Society: Interface, 3(6):71-85
+Griffin L. D. (2006). <em><a href="http://rsif.royalsocietypublishing.org/content/3/6/71">Optimality of the basic colour categories for classification</a></em>. Journal of the Royal Society: Interface, 3(6):71-85
 <br>
 Griffin L. D., and Sepeheri A. (2002). <em><a href="http://discovery.ucl.ac.uk/74204/">Performance of CIE94 for non-reference conditions</a></em>. Color Research &amp; Applications, 27(2):108-115
 <br>
