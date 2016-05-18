@@ -2,7 +2,7 @@
 
 <div class="columns" id="about">
   <h5>Rapiscan Project</h5>
-    <p>In partnership with Rapiscan Systems, our group is developping machine vision algorithms for the automated analysis of X-ray imagery of cargo containers, luggage, and individuals.</p>
+    <p>In partnership with Rapiscan Systems, our group is developing machine vision algorithms for the automated analysis of X-ray imagery of cargo containers, luggage, and individuals.</p>
   
   <h5>Project Updates</h5>
     <p>- <strong>17.04.2016</strong>: A summary of our work was presented at the <a href="http://spie.org/conferences-and-exhibitions/defense--commercial-sensing">SPIE Defense + Security 2016 conference</a> in Baltimore (USA). The paper can be found <a href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2523273">here</a> and is archived as a PDF <a href="documents/SPIE_DEFENSE_16_NJ_TWR_XRAY.pdf">here</a>.</p>
