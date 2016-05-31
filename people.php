@@ -11,7 +11,7 @@
   <p><a href="http://www0.cs.ucl.ac.uk/staff/T.Boyd">Theodore Boyd</a></p>
   <p><a href="http://www0.cs.ucl.ac.uk/people/D.Mylonas">Dimitris Mylonas</a> (<a href="http://colournaming.com/">website</a> | <a href="https://scholar.google.co.uk/citations?user=I7W_IuYAAAAJ&hl=en">pubs</a>)</p>
   <p><a href="http://www.protonotarios.net">Manos Protonotarios</a></p>
-  <p><a href="https://www.ucl.ac.uk/secret/current_students/2012_cohort/2012-cohort-profiles/thomas-rogers">Thomas Rogers</a></p>
+  <p><a href="http://twrogers.work/">Thomas Rogers</a> (<a href="https://www.ucl.ac.uk/secret/current_students/2012_cohort/2012-cohort-profiles/thomas-rogers">UCL</a>)</p>
   <p>Thomas Tanay</p>
   <h5>Visitors</h5>
   <p><a href="http://gait.buaa.edu.cn/~zqy">Dr Zhao Qi-Yang</a></p>
