@@ -1,5 +1,16 @@
 <?php include 'header.php';?> 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78680552-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 <div class="columns" id="about">
 <h5>Basic Image Features</h5>
 <p>Basic Image Features (BIFs) are a significant contribution by this group. Computation of BIFs consists in classifying each pixel of an image into one of seven categories depending on local structures and symmetries, creating a primal sketch of the input image. BIFs are computed efficiently based on the responses to a bank of Derivative-of-Gaussian (DtG) filters. </p>
