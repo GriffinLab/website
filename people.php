@@ -4,7 +4,7 @@
   <h5>Principal Investigator</h5>
   <p><a href="http://www0.cs.ucl.ac.uk/people/L.Griffin">Dr Lewis Griffin</a></p>
   <h5>Research Associate</h5>
-  <p><a href="http://www0.cs.ucl.ac.uk/people/N.Jaccard">Dr Nicolas Jaccard</a></p>
+  <p><a href="http://www.nicjac.net">Dr Nicolas Jaccard</a></p>
   <h5>PhD/EngD Students</h5>
   <p><a href="people_jerone.php">Jerone Andrews</a></p>
   <p><a href="http://bouremoum.com">Sami Bouremoum</a></p>
